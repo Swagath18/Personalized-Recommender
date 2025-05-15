@@ -2,6 +2,10 @@
 
 A context-aware recommendation system powered by **Retrieval-Augmented Generation (RAG)** and **GPT-4**, enhanced with **hybrid reranking** and a **feedback sentiment analysis system** using VADER.
 
+## Workflow
+
+![Workflow](./workflow.png)
+
 ##  Features
 
 - Semantic product search with FAISS + Sentence Transformers
