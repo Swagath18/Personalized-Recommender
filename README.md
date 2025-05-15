@@ -39,6 +39,7 @@ A context-aware recommendation system powered by **Retrieval-Augmented Generatio
 git clone https://github.com/yourusername/llm-personalized-recommender.git
 cd llm-personalized-recommender
 pip install -r requirements.txt
+python llmragsenti.py
 ```
 
 Make sure your `.env` file contains:
